@@ -191,7 +191,13 @@
     <Content Include="Content\Site.css" />
     <Content Include="Images\amir_vivo.jpg" />
     <Content Include="Images\Huawei_Messi3.jpg" />
+    <Content Include="Images\Huawei_nova2i.jfif" />
     <Content Include="Images\iphone-12.jfif" />
+    <Content Include="Images\iphone_12pro.png" />
+    <Content Include="Images\search.png" />
+    <Content Include="Images\searchIcon.png" />
+    <Content Include="Images\search_icon.png" />
+    <Content Include="Images\Vivo-V20.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
